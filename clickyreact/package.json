@@ -1,8 +1,8 @@
 {
+  "homepage": "https://juicychewc.github.io/clickyReact/",
   "name": "clickyreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juicychewc.github.io/clickyReact/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
